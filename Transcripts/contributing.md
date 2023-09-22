@@ -64,6 +64,6 @@ Thank you for expressing your interest in contributing to our Git-Based Recipe R
 
 ---
 
-For more details, refer to the project's [README.md](./README.md).
+For more details, refer to the project's [README.md](README.md).
 
 **We appreciate your valuable contributions! Thank you for being a part of our project.**
