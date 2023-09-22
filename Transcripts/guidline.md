@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Guidelines for Git-Based Recipe Repository](#guidelines-for-git-based-recipe-repository)
+- [Guidelines for CookWithAjay Repository](#guidelines-for-CookWithAjay-repository)
   - [Table of Contents](#table-of-contents)
   - [Code of Conduct](#code-of-conduct)
   - [Formatting Standards](#formatting-standards)
