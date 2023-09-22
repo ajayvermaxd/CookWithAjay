@@ -32,11 +32,11 @@ Resilient version control mechanisms to uphold the quality and authenticity of e
 
 ## How to Contribute
 
-Contributing to this project adheres to a user-friendly process suitable for both Git novices and seasoned users. For a comprehensive guide on how to contribute, please consult our [Contributor's Guidelines](docs/CONTRIBUTING.md). Here's a brief overview:
+Contributing to this project adheres to a user-friendly process suitable for both Git novices and seasoned users. For a comprehensive guide on how to contribute, please consult our [Contributor's Guidelines](Transcripts/contribution.md). Here's a brief overview:
 
 1. **Fork the Repository**: Create a fork of the primary repository in your GitHub account.
 2. **Clone the Repository**: Clone your forked repository to your local machine.
-3. **Create a New Branch**: Name it meaningfully based on what you're contributing (e.g., 'recipe/Tea').
+3. **Create a New Branch**: Name it meaningfully based on what you're contributing (e.g., 'Recipes/Indian-Recipes/Tea').
 4. **Add Your Recipe**:Compose your recipe using a Markdown file located within the suitable 'cuisine folder' within the recipes/ directory.
 5. **Open a Pull Request**: After committing your changes, submit a pull request for review.
 
@@ -55,20 +55,21 @@ Contributing to this project adheres to a user-friendly process suitable for bot
 ## Guidelines for Recipe Formatting
 
 
-To ensure uniformity, all recipes must adhere to a standardized format in Markdown. For detailed guidelines, please refer to the [Formatting Guidelines](docs/GUIDELINES.md)
+To ensure uniformity, all recipes must adhere to a standardized format in Markdown. For detailed guidelines, please refer to the [Formatting Guidelines](Transcripts/guidline.md)
 
 ---
 
 ## Folder Structure
 
 ```plaintext
-- recipes/
-    - cuisine/ (e.g., Indian, Chinese)
+- Recipes/
+    - Cuisines/ (e.g., Indian-Cuisines, Chinese-Cuisines)
+       CuisinesFolder
         - recipe-name.md
         - images/
-- docs/
-    - CONTRIBUTING.md
-    - GUIDELINES.md
+- Transcripts/
+    - contribution.md
+    - guidline.md
 - images/ (for general repository images)
 - README.md
 ```
@@ -98,7 +99,7 @@ If you have any questions, suggestions, or feedback, don't hesitate to reach out
 
 ---
 
-**Contributors**: [List of contributors](CONTRIBUTORS.md)
+**Contributors**: [List of contributors](contributors.md)
 
 **License**: MIT
 
