@@ -99,7 +99,7 @@ If you have any questions, suggestions, or feedback, don't hesitate to reach out
 
 ---
 
-**Contributors**: [List of contributors](contributors.md)
+**Contributors**: [List of contributors](Transcripts/contribution.md)
 
 **License**: MIT
 
