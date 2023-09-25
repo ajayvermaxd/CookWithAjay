@@ -13,3 +13,10 @@ List Of Contributors:
 - **Role**: Contributor
 - **Areas of Expertise**: Recipe Shared
 - **Contact Information**: [neeraj.drmz@gmail.com](mailto:neeraj.drmz@gmail.com)
+
+## Gowtham Naidu Ponnana
+
+- **Github Username**: [gowtham-ponnana](https://github.com/gowtham-ponnana)
+- **Role**: Contributor
+- **Areas of Expertise**: Recipe Shared
+- **Contact Information**: [onlypayments@duck.go](mailto:onlypayments@duck.go)
